@@ -1,5 +1,5 @@
 
-#### 📦 `password-gen`
+# 📦`password-gen`
 
 **🔐 A simple, interactive password generator built with Rust.**
 
