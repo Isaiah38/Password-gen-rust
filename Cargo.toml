@@ -1,0 +1,11 @@
+[package]
+name = "password-gen"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+rand = "0.8"
+clipboard = "0.5"
+dialoguer = "0.11"
+
