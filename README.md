@@ -1,5 +1,5 @@
 
-# 📦`password-gen`
+# `password-gen`
 
 **🔐 A simple, interactive password generator built with Rust.**
 
@@ -7,7 +7,7 @@ Generate secure passwords right from your terminal — with options for length, 
 
 ---
 
-### ✅ Features
+### Features
 
 - ⚙️ Customizable length and character sets
 - 💬 Interactive mode (guided prompts)
@@ -16,7 +16,7 @@ Generate secure passwords right from your terminal — with options for length, 
 
 ---
 
-### 🚀 Usage
+### Usage
 
 **With CLI flags:**
 
@@ -37,7 +37,7 @@ password-gen --interactive
 Clone & run:
 
 ```bash
-git clone https://github.com/yourusername/password-gen.git
+git clone https://github.com/Isaiah38/Password-gen-rust.git
 cd password-gen
 cargo run -- --interactive
 ```
